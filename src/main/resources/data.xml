@@ -1,0 +1,28 @@
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <rdf:Description rdf:about="https://www.instagram.com/dimitarslezenkovski/">
+        <vcard:N>
+            <rdf:Description rdf:about="https://www.finki.ukim.mk/">
+                <vcard:ADR>
+                    <rdf:Description rdf:about="https://karpos.gov.mk/">
+                        <vcard:GEO>
+                            <rdf:Description rdf:about="https://skopje.gov.mk/">
+                                <vcard:GEO>
+                                    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/North_Macedonia">
+                                        <vcard:GEO>Europe</vcard:GEO>
+                                    </rdf:Description>
+                                </vcard:GEO>
+                            </rdf:Description>
+                        </vcard:GEO>
+                    </rdf:Description>
+                </vcard:ADR>
+            </rdf:Description>
+        </vcard:N>
+        <vcard:TITLE>Software Engineer</vcard:TITLE>
+        <vcard:ADR>St. 500 No. 49, Ilinden, Skopje</vcard:ADR>
+        <vcard:BDAY>13-04-1999</vcard:BDAY>
+        <vcard:NICKNAME>Dime</vcard:NICKNAME>
+        <vcard:FN>Dimitar Slezenkovski</vcard:FN>
+    </rdf:Description>
+</rdf:RDF>
